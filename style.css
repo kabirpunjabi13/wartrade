@@ -1,0 +1,36 @@
+body{
+    background: rgb(39, 3, 39);
+    color: white;
+}
+p{
+    background-color: wheat;
+    padding: 20px;
+    color: black;
+    
+}
+button{
+    padding: 10px 20px;
+    font-size: 12px;
+    margin-left: 20px;
+    border-radius: 7px;
+}
+a{
+    color:hotpink;
+    font-style: italic;
+}
+h3{
+    color:hotpink;
+}
+form{
+    color: hotpink;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    margin-left: 40%;
+    
+    border-radius: 12px;
+}
